@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TheGenuisBubbleTea-GUI/1.0.0": {
+        "runtime": {
+          "TheGenuisBubbleTea-GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheGenuisBubbleTea-GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

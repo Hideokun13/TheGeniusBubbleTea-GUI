@@ -1,0 +1,4 @@
+Size S,0
+Size M,5
+Size L,10
+Size XL,15

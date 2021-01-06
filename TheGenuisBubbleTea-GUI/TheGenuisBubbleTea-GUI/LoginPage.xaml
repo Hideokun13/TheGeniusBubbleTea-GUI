@@ -1,0 +1,72 @@
+﻿<Window x:Class="TheGenuisBubbleTea_GUI.LoginPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TheGenuisBubbleTea_GUI"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None" 
+        BorderThickness="0"
+        AllowsTransparency="True"
+        Title="LoginPage" Height="550" Width="950">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Menu Button -->
+        <Grid Grid.Column= "0">
+            <Border Style = "{StaticResource MenuBG}"/>
+            <Rectangle Style="{StaticResource LogoBorder}"/>
+            <Image Style="{StaticResource LogoImage}" />
+        </Grid>
+
+        <!-- Content View -->
+        <Grid Grid.Column= "1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <!-- Header View -->
+                <Grid Grid.Row="0">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="9*"/>
+                            <ColumnDefinition Width="50"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <TextBlock Style ="{StaticResource HeaderText}" Text="Login"/>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <Button x:Name="exitButton" Style="{StaticResource HeadMenuButton}" Click="exitButton_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Source="Image/UI/Close-button.png" Width="16" Height="16"/>
+                                </StackPanel>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                </Grid>
+
+                <!-- Login View -->
+                <Grid Grid.Row="1">
+                    <StackPanel VerticalAlignment="Center">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+                            <TextBlock Text="Username" Style="{StaticResource LoginText}"/>
+                            <TextBox x:Name="usernameEntity" Width="200" Height="20" Margin="20,0"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10" >
+                            <TextBlock Text="Password" Style="{StaticResource LoginText}"/>
+                            <PasswordBox x:Name="passwordEntity" Width="200" Height="20" Margin="20,0" KeyDown="passwordEntity_KeyDown"/>
+                        </StackPanel>
+                        <Button x:Name="loginButton" Content="Login" Style="{StaticResource LoginButton}" Margin="0,10" Click="loginButton_Click"/>
+
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,28 @@
+﻿<Window x:Class="TheGenuisBubbleTea_GUI.RegisterMember"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TheGenuisBubbleTea_GUI"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="RegisterMember" Height="250" Width="400">
+    <StackPanel VerticalAlignment="Center">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+            <TextBlock Text="Name" Style="{StaticResource LoginText}"/>
+            <TextBox x:Name="nameBox" Width="200" Height="20" Margin="20,0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+            <TextBlock Text="Surname" Style="{StaticResource LoginText}"/>
+            <TextBox x:Name="surnameBox" Width="200" Height="20" Margin="20,0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+            <TextBlock Text="Tel Number" Style="{StaticResource LoginText}"/>
+            <TextBox x:Name="telNumberEntity" Width="200" Height="20" Margin="20,0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10">
+            <Button x:Name="registerButton" Content="Register" Style="{StaticResource LoginButton}" Margin="0,10,0,10" Click="registerButton_Click"/>
+            <Button x:Name="ClearButton" Content="Clear" Style="{StaticResource LoginButton}" Margin="50,10,0,10" Click="ClearButton_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

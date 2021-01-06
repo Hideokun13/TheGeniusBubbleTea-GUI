@@ -1,0 +1,113 @@
+﻿<Window x:Class="TheGenuisBubbleTea_GUI.OrderPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TheGenuisBubbleTea_GUI"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None" 
+        BorderThickness="0"
+        AllowsTransparency="True"
+        Title="HomeMenu" Height="550" Width="950">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <!-- Menu Button -->
+        <Grid Grid.Column= "0">
+            <Border Style = "{StaticResource MenuBG}"/>
+            <Rectangle Style="{StaticResource LogoBorder}"/>
+            <Image Source="image/TheGenuisBubbleTea-Logo.png" Style="{StaticResource LogoImage}" />
+            <Button x:Name="HomeButton" Margin="0,0,0,297" Style="{StaticResource MenuButton}" Click="HomeButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Home" Style="{StaticResource TextMenuButton}"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="OrderButton" Margin="0,0,0,242" Style="{StaticResource MenuButton}">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Order" Style="{StaticResource TextMenuButton}"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="OrderStatusButton" Margin="0,0,0,182" Style="{StaticResource MenuButton}" Click="OrderStatusButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Order Status" Style="{StaticResource TextMenuButton}"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="MemberButton" Margin="0,0,0,122" Style="{StaticResource MenuButton}" Click="MemberButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="The Genuis Member" Style="{StaticResource TextMenuButton}"/>
+                </StackPanel>
+            </Button>
+        </Grid>
+        
+        <!-- Content View -->
+        <Grid Grid.Column= "1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="60"/>
+                </Grid.RowDefinitions>
+                
+                <!-- Header View -->
+                <Grid Grid.Row="0">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="9*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <TextBlock Style ="{StaticResource HeaderText}" Text="Order Menu"/>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <Button x:Name="exitButton" Style="{StaticResource HeadMenuButton}" Click="exitButton_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Source="Image/UI/exit-to-app-button.png"/>
+                                </StackPanel>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                </Grid>
+                
+                <!-- List View -->
+                <Grid Grid.Row="1">
+                    <Grid>
+                        <Grid>
+                            <ListView Padding="0" Margin="10,0,10,0" Width="680">
+                                <Grid Width="645">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <Image Source="image/MenuSelector/MilkTea.jpg" Width="400"/>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <Button x:Name="SelectButton"  Margin="10,20" HorizontalAlignment="Center">
+                                            <StackPanel>
+                                                <Label Content="Select!" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                            </StackPanel>
+                                        </Button>
+                                    </Grid>
+                                </Grid>
+                            </ListView>
+                        </Grid>
+                    </Grid>
+                </Grid>
+                
+                <!-- Control Button -->
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0" x:Name="BackButton" Content="Back" Style="{StaticResource ControlButton}" Click="BackButton_Click"/>
+                    <Button Grid.Column="1" x:Name="NextButton" Content="Next" Style="{StaticResource ControlButton}" Click="NextButton_Click"/>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

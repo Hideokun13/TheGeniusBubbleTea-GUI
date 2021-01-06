@@ -1,0 +1,183 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TheGenuisBubbleTea_GUI</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Beverage\MilkTeaMenu.txt" />
+    <None Remove="Beverage\OtherMenu.txt" />
+    <None Remove="Beverage\Size.txt" />
+    <None Remove="Beverage\SodaMenu.txt" />
+    <None Remove="Beverage\SweetLevel.txt" />
+    <None Remove="Beverage\TeaMenu.txt" />
+    <None Remove="Beverage\Topping.txt" />
+    <None Remove="Cart\Cart.txt" />
+    <None Remove="Cart\OrderStatus.txt" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมกาแฟ.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมคาราเมล.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมน้ำผึ้ง.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมลิ้นจี่.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมวนิลา.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมสตรอว์เบอร์รี.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมเผือก.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมเมล่อน.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมแอปเปิ้ล.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมโกโก้.jpg" />
+    <None Remove="Image\DrinkMenu\MilkTea\ชานมไต้หวัน.jpg" />
+    <None Remove="Image\DrinkMenu\Other\ชาเขียวมะลิ.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาดำ.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาสตรอว์เบอร์รี.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเขียวมะนาว.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเขียวลิ้นจี่.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเขียวสตรอเบอร์รี่.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเขียวแอปเปิ้ล.jpg" />
+    <None Remove="Image\Logo\TheGenuisBubbleTea-Logo.png" />
+    <None Remove="Image\main-Jasmin.png" />
+    <None Remove="Image\main.png" />
+    <None Remove="Image\menu1.jpg" />
+    <None Remove="Image\menu2.jpg" />
+    <None Remove="Image\menu3.jpg" />
+    <None Remove="Image\MenuSelector\menu-milktea.jpg" />
+    <None Remove="Image\MenuSelector\menu1.jpg" />
+    <None Remove="Image\MenuSelector\menu2.jpg" />
+    <None Remove="Image\MenuSelector\menu3.jpg" />
+    <None Remove="Image\MenuSelector\MilkTea.jpg" />
+    <None Remove="Image\Sweet\SweetLevel.jpg" />
+    <None Remove="Image\DrinkMenu\Other\กาแฟ.jpg" />
+    <None Remove="Image\DrinkMenu\Other\กาแฟลาเต้.jpg" />
+    <None Remove="Image\DrinkMenu\Other\นมชมพู.jpg" />
+    <None Remove="Image\DrinkMenu\Other\น้ำผึ้งมะนาว.jpg" />
+    <None Remove="Image\DrinkMenu\Other\มอคค่า.jpg" />
+    <None Remove="Image\DrinkMenu\Other\โกโก้.jpg" />
+    <None Remove="Image\DrinkMenu\Other\โอวัลติน.jpg" />
+    <None Remove="Image\DrinkMenu\Soda\มะนาวโซดา.jpg" />
+    <None Remove="Image\DrinkMenu\Soda\ลิ้นจี่โซดา.jpg" />
+    <None Remove="Image\DrinkMenu\Soda\สตรอว์เบอร์รีโซดา.jpg" />
+    <None Remove="Image\DrinkMenu\Soda\เมล่อนโซดา.jpg" />
+    <None Remove="Image\DrinkMenu\Soda\แดงมะนาวโซดา.jpg" />
+    <None Remove="Image\DrinkMenu\Soda\แดงโซดา.jpg" />
+    <None Remove="Image\DrinkMenu\Soda\แอปเปิ้ลโซดา.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาดำเย็น.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชามะนาว.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาลิ้นจี่.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเขียวนม.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเขียวน้ำผึ้งมะนาว.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเขียวเมล่อน.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเขียวใส.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเมล่อน.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาเย็น.jpg" />
+    <None Remove="Image\DrinkMenu\Tea\ชาแอปเปิ้ล.jpg" />
+    <None Remove="Image\Topping\aloevera.jpg" />
+    <None Remove="Image\Topping\brown-sugar.jpg" />
+    <None Remove="Image\Topping\bubble-tea-gold.jpg" />
+    <None Remove="Image\Topping\bubble-tea.jpg" />
+    <None Remove="Image\Topping\fruity-jelly.jpg" />
+    <None Remove="Image\Topping\sakura-pearl-2-1.jpg" />
+    <None Remove="Image\Topping\snow-pearl.jpg" />
+    <None Remove="Image\UI\close-button.png" />
+    <None Remove="Image\UI\exit-to-app-button.png" />
+    <None Remove="Login\Login.txt" />
+    <None Remove="Member\Member.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Beverage\MilkTeaMenu.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Beverage\OtherMenu.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Beverage\Size.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Beverage\SodaMenu.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Beverage\SweetLevel.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Beverage\TeaMenu.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Beverage\Topping.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Cart\Cart.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Cart\OrderStatus.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมกาแฟ.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมคาราเมล.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมน้ำผึ้ง.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมลิ้นจี่.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมวนิลา.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมสตรอว์เบอร์รี.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมเผือก.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมเมล่อน.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมแอปเปิ้ล.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมโกโก้.jpg" />
+    <Resource Include="Image\DrinkMenu\MilkTea\ชานมไต้หวัน.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาดำ.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาสตรอว์เบอร์รี.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเขียวมะนาว.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเขียวลิ้นจี่.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเขียวสตรอเบอร์รี่.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเขียวแอปเปิ้ล.jpg" />
+    <Resource Include="Image\Logo\TheGenuisBubbleTea-Logo.png" />
+    <Resource Include="Image\main-Jasmin.png" />
+    <Resource Include="Image\main.png" />
+    <Resource Include="Image\MenuSelector\menu-milktea.jpg" />
+    <Resource Include="Image\MenuSelector\menu1.jpg" />
+    <Resource Include="Image\MenuSelector\menu2.jpg" />
+    <Resource Include="Image\MenuSelector\menu3.jpg" />
+    <Resource Include="Image\MenuSelector\MilkTea.jpg" />
+    <Resource Include="Image\Sweet\SweetLevel.jpg" />
+    <Resource Include="Image\DrinkMenu\Other\กาแฟ.jpg" />
+    <Resource Include="Image\DrinkMenu\Other\กาแฟลาเต้.jpg" />
+    <Resource Include="Image\DrinkMenu\Other\ชาเขียวมะลิ.jpg" />
+    <Resource Include="Image\DrinkMenu\Other\นมชมพู.jpg" />
+    <Resource Include="Image\DrinkMenu\Other\น้ำผึ้งมะนาว.jpg" />
+    <Resource Include="Image\DrinkMenu\Other\มอคค่า.jpg" />
+    <Resource Include="Image\DrinkMenu\Other\โกโก้.jpg" />
+    <Resource Include="Image\DrinkMenu\Other\โอวัลติน.jpg" />
+    <Resource Include="Image\DrinkMenu\Soda\มะนาวโซดา.jpg" />
+    <Resource Include="Image\DrinkMenu\Soda\ลิ้นจี่โซดา.jpg" />
+    <Resource Include="Image\DrinkMenu\Soda\สตรอว์เบอร์รีโซดา.jpg" />
+    <Resource Include="Image\DrinkMenu\Soda\เมล่อนโซดา.jpg" />
+    <Resource Include="Image\DrinkMenu\Soda\แดงมะนาวโซดา.jpg" />
+    <Resource Include="Image\DrinkMenu\Soda\แดงโซดา.jpg" />
+    <Resource Include="Image\DrinkMenu\Soda\แอปเปิ้ลโซดา.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาดำเย็น.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชามะนาว.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาลิ้นจี่.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเขียวนม.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเขียวน้ำผึ้งมะนาว.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเขียวเมล่อน.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเขียวใส.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเมล่อน.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาเย็น.jpg" />
+    <Resource Include="Image\DrinkMenu\Tea\ชาแอปเปิ้ล.jpg" />
+    <Resource Include="Image\Topping\aloevera.jpg" />
+    <Resource Include="Image\Topping\brown-sugar.jpg" />
+    <Resource Include="Image\Topping\bubble-tea-gold.jpg" />
+    <Resource Include="Image\Topping\bubble-tea.jpg" />
+    <Resource Include="Image\Topping\fruity-jelly.jpg" />
+    <Resource Include="Image\Topping\sakura-pearl-2-1.jpg" />
+    <Resource Include="Image\Topping\snow-pearl.jpg" />
+    <Resource Include="Image\UI\close-button.png" />
+    <Resource Include="Image\UI\exit-to-app-button.png" />
+    <Resource Include="Login\Login.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Member\Member.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,308 @@
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.exe
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.deps.json
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.json
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.dev.json
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.cache
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.lref
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.g.resources
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfo.cs
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.g.cs
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.g.cs
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.g.cs
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.g.cs
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.baml
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.baml
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.baml
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.baml
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\asus\source\repos\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.exe
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.deps.json
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.json
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.dev.json
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.cache
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.lref
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.g.resources
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfo.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.g.cs
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.baml
+C:\Users\asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.exe
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.deps.json
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.json
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.dev.json
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.cache
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.lref
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.g.resources
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfo.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.g.cs
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.baml
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csprojAssemblyReference.cache
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\CE216\Project\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.genruntimeconfig.cache
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.exe
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.deps.json
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.json
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.dev.json
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.cache
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.lref
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.g.resources
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfo.cs
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.genruntimeconfig.cache
+C:\Users\asus\Documents\CE216\Project\29 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csprojAssemblyReference.cache
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csprojAssemblyReference.cache
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.cache
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.lref
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.exe
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.deps.json
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.json
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.dev.json
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.baml
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.g.resources
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csproj.CoreCompileInputs.cache
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfoInputs.cache
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfo.cs
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\DK\Documents\Final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.genruntimeconfig.cache
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.exe
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.deps.json
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.json
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.dev.json
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csprojAssemblyReference.cache
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.cache
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.lref
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.g.resources
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfo.cs
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Documents\CE216\Project\30 final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.genruntimeconfig.cache
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.exe
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.deps.json
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.json
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.runtimeconfig.dev.json
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\bin\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csprojAssemblyReference.cache
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.cache
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI_MarkupCompile.lref
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\HomePage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\LoginPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MemberPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MenuSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderStatusPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OtherMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SizeSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SodaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SummaryPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\SweetSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TeaMenuSelector.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\ToppingSelectorPage.baml
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.g.resources
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.AssemblyInfo.cs
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.dll
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.pdb
+C:\Users\asus\Documents\CE216\Project\30 final\The Fucking last final\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.genruntimeconfig.cache
+C:\Users\Asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.g.cs
+C:\Users\Asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.g.cs
+C:\Users\Asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.g.cs
+C:\Users\Asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\MilkTeaMenuSelector.baml
+C:\Users\Asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\OrderPage.baml
+C:\Users\Asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\RegisterMember.baml
+C:\Users\Asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\TheGenuisBubbleTea-GUI\TheGenuisBubbleTea-GUI\obj\Debug\netcoreapp3.1\TheGenuisBubbleTea-GUI.genruntimeconfig.cache

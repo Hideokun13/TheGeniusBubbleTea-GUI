@@ -1,0 +1,222 @@
+﻿<Window x:Class="TheGenuisBubbleTea_GUI.MilkTeaMenuSelector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TheGenuisBubbleTea_GUI"
+        mc:Ignorable="d"
+               WindowStartupLocation="CenterScreen"
+        WindowStyle="None" 
+        BorderThickness="0"
+        AllowsTransparency="True"
+        Title="MilkTeaSelectorPage" Height="550" Width="950">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Menu Button -->
+        <Grid Grid.Column= "0">
+            <Border Style = "{StaticResource MenuBG}"/>
+            <Rectangle Style="{StaticResource LogoBorder}"/>
+            <Image Style="{StaticResource LogoImage}" />
+            <Button x:Name="HomeButton" Margin="0,0,0,297" Style="{StaticResource MenuButton}" Click="HomeButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Home" Style="{StaticResource TextMenuButton}"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="OrderButton" Margin="0,0,0,242" Style="{StaticResource MenuButton}">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Order" Style="{StaticResource TextMenuButton}"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="OrderStatusButton" Margin="0,0,0,182" Style="{StaticResource MenuButton}" Click="OrderStatusButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Order Status" Style="{StaticResource TextMenuButton}"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="MemberButton" Margin="0,0,0,122" Style="{StaticResource MenuButton}" Click="MemberButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="The Genuis Member" Style="{StaticResource TextMenuButton}"/>
+                </StackPanel>
+            </Button>
+        </Grid>
+
+        <!-- Content View -->
+        <Grid Grid.Column= "1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="60"/>
+                </Grid.RowDefinitions>
+
+                <!-- Header View -->
+                <Grid Grid.Row="0">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="9*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <TextBlock Style ="{StaticResource HeaderText}" Text="MilkTea Menu"/>
+                        </Grid>
+                    </Grid>
+                </Grid>
+                <!-- List View -->
+                <ScrollViewer Grid.Row="1" Margin="10,0" Width="690">
+                    <Grid Grid.Row="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Grid.Row="0" Grid.Column="0" >
+                            <Button x:Name="TaiwanMilkTeaButton" Background="White" BorderBrush="White" Click="TaiwanMilkTeaButton_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมไต้หวัน.jpg" />
+
+                                </Border>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Row="0" Grid.Column="1" >
+                            <Button x:Name="CoffeeMilkTeaButton" Background="White" BorderBrush="White" Click="CoffeeMilkTeaButton_Click" >
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมกาแฟ.jpg"/>
+
+                                </Border>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Row="0" Grid.Column="2" >
+                            <Button x:Name="CocoaMilkTeaButton" Background="White" BorderBrush="White" Click="CocoaMilkTeaButton_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมโกโก้.jpg"/>
+
+                                </Border>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Row="0" Grid.Column="3" >
+                            <Button x:Name="TaroMilkTea" Background="White" BorderBrush="White" Click="TaroMilkTea_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมเผือก.jpg" />
+
+                                </Border>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Row="0" Grid.Column="4" >
+                            <Button x:Name="LycheeMilkTeaButton" Background="White" BorderBrush="White" Click="LycheeMilkTeaButton_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมลิ้นจี่.jpg" />
+
+                                </Border>
+                            </Button>
+                        </Grid>
+
+                        <Grid Grid.Row="1" Grid.Column="0" >
+                            <Button x:Name="MelonMilkTeaButton" Background="White" BorderBrush="White" Click="MelonMilkTeaButton_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมเมล่อน.jpg" />
+
+                                </Border>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Row="1" Grid.Column="1" >
+                            <Button x:Name="StrawberryMilkTeaButton" Background="White" BorderBrush="White" Click="StrawberryMilkTeaButton_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมสตรอว์เบอร์รี.jpg" />
+
+                                </Border>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Row="1" Grid.Column="2" >
+                            <Button x:Name="AppleMilkTeaButton" Background="White" BorderBrush="White" Click="AppleMilkTeaButton_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมแอปเปิ้ล.jpg" />
+
+                                </Border>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Row="1" Grid.Column="3" >
+                            <Button x:Name="CaramelMilkTeaButton" Background="White" BorderBrush="White" Click="CaramelMilkTeaButton_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมคาราเมล.jpg" />
+
+                                </Border>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Row="1" Grid.Column="4" >
+                            <Button x:Name="VanillaMilkTeaButton" Background="White" BorderBrush="White" Click="VanillaMilkTeaButton_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมวนิลา.jpg" />
+                                </Border>
+                            </Button>
+                        </Grid>
+                        <Grid Grid.Row="2" Grid.Column="0" >
+                            <Button x:Name="HoneyMilkTeaButton" Background="White" BorderBrush="White" Click="HoneyMilkTeaButton_Click">
+                                <Border Background="White" Width="120" Height="120" CornerRadius="30" Margin="5">
+                                    <Border.Effect>
+                                        <DropShadowEffect ShadowDepth="10" Color="LightGray"/>
+                                    </Border.Effect>
+                                    <Image Source="/Image/DrinkMenu/MilkTea/ชานมน้ำผึ้ง.jpg" />
+
+                                </Border>
+                            </Button>
+
+                        </Grid>
+                    </Grid>
+                </ScrollViewer>
+
+
+                <!-- Control Button -->
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0" x:Name="BackButton" Content="Back" Style="{StaticResource ControlButton}" Click="BackButton_Click"/>
+                    <Button Grid.Column="1" x:Name="NextButton" Content="Next" Style="{StaticResource ControlButton}" Click="NextButton_Click"/>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

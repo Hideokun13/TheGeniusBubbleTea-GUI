@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="HomePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MemberPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MenuSelectorPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MilkTeaMenuSelector.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OrderStatusPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OtherMenuSelector.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegisterMember.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SizeSelectorPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SodaMenuSelector.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SummaryPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SweetSelectorPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TeaMenuSelector.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ToppingSelectorPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="HomePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MemberPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MenuSelectorPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MilkTeaMenuSelector.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrderStatusPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OtherMenuSelector.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegisterMember.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SizeSelectorPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SodaMenuSelector.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SummaryPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SweetSelectorPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TeaMenuSelector.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ToppingSelectorPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
